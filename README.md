@@ -5,6 +5,7 @@
 - 单文件 exe，约 433 KB，双击即用，**不需要安装、不落地一堆库**
 - 纯 C# / WinForms 自绘界面，**不联网、不上传**，数据只存在本机
 - 依赖系统自带的 .NET Framework 4.x（Win10 / Win11 已内置）
+- 直接下载：[Releases 里的 PathTaken.exe](https://github.com/terrychow998/PathTaken/releases/latest)，也可以按 `build.cmd` 自己编译
 
 ![今日时间线](shot0.png)
 
