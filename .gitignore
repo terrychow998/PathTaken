@@ -1,0 +1,17 @@
+# build output
+dist/*.exe
+
+# local runtime data / logs
+*.log
+backup/
+
+# IDE
+.vs/
+*.suo
+*.user
+obj/
+bin/
+
+# OS junk
+Thumbs.db
+desktop.ini
